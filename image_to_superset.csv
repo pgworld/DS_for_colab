@@ -1,0 +1,1000 @@
+"tench, Tinca tinca",0.22,soft-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"goldfish, Carassius auratus",0.52,soft-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",0.92,shark,elasmobranch,cartilaginous_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"tiger shark, Galeocerdo cuvieri",0.12,shark,elasmobranch,cartilaginous_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"hammerhead, hammerhead shark",0.04,shark,elasmobranch,cartilaginous_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"electric ray, crampfish, numbfish, torpedo",0.94,ray,elasmobranch,cartilaginous_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+stingray,0.16,ray,elasmobranch,cartilaginous_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+cock,0.78,bird,bird,bird,bird,bird,vertebrate,chordate,animal,organism,living_thing
+hen,0.3,bird,bird,bird,bird,bird,vertebrate,chordate,animal,organism,living_thing
+"ostrich, Struthio camelus",0.74,ratite,ratite,ratite,ratite,bird,vertebrate,chordate,animal,organism,living_thing
+"brambling, Fringilla montifringilla",0.12,finch,finch,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"goldfinch, Carduelis carduelis",0.12,finch,finch,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"house finch, linnet, Carpodacus mexicanus",0.44,finch,finch,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"junco, snowbird",0.8,finch,finch,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.74,bunting,finch,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"robin, American robin, Turdus migratorius",0.9,thrush,thrush,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+bulbul,0.7,nightingale,thrush,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+jay,0.64,corvine_bird,corvine_bird,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+magpie,1.04,corvine_bird,corvine_bird,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+chickadee,0.42,titmouse,titmouse,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+"water ouzel, dipper",0.32,oscine,oscine,oscine,passerine,bird,vertebrate,chordate,animal,organism,living_thing
+kite,0.34,hawk,hawk,hawk,bird_of_prey,bird,vertebrate,chordate,animal,organism,living_thing
+"bald eagle, American eagle, Haliaeetus leucocephalus",0.54,eagle,eagle,eagle,bird_of_prey,bird,vertebrate,chordate,animal,organism,living_thing
+vulture,0.86,bird_of_prey,bird_of_prey,bird_of_prey,bird_of_prey,bird,vertebrate,chordate,animal,organism,living_thing
+"great grey owl, great gray owl, Strix nebulosa",0.88,owl,owl,owl,bird_of_prey,bird,vertebrate,chordate,animal,organism,living_thing
+"European fire salamander, Salamandra salamandra",0.36,salamander,salamander,salamander,salamander,amphibian,vertebrate,chordate,animal,organism,living_thing
+"common newt, Triturus vulgaris",0.64,newt,newt,newt,salamander,amphibian,vertebrate,chordate,animal,organism,living_thing
+eft,0.64,newt,newt,newt,salamander,amphibian,vertebrate,chordate,animal,organism,living_thing
+"spotted salamander, Ambystoma maculatum",0.42,ambystomid,ambystomid,ambystomid,salamander,amphibian,vertebrate,chordate,animal,organism,living_thing
+"axolotl, mud puppy, Ambystoma mexicanum",0.6,ambystomid,ambystomid,ambystomid,salamander,amphibian,vertebrate,chordate,animal,organism,living_thing
+"bullfrog, Rana catesbeiana",0.64,true_frog,true_frog,true_frog,frog,amphibian,vertebrate,chordate,animal,organism,living_thing
+"tree frog, tree-frog",0.28,frog,frog,frog,frog,amphibian,vertebrate,chordate,animal,organism,living_thing
+"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",0.92,frog,frog,frog,frog,amphibian,vertebrate,chordate,animal,organism,living_thing
+"loggerhead, loggerhead turtle, Caretta caretta",0.94,sea_turtle,turtle,chelonian,anapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",0.64,sea_turtle,turtle,chelonian,anapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+mud turtle,0.92,turtle,turtle,chelonian,anapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+terrapin,0.36,turtle,turtle,chelonian,anapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"box turtle, box tortoise",0.58,turtle,turtle,chelonian,anapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+banded gecko,0.68,gecko,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"common iguana, iguana, Iguana iguana",0.78,iguanid,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"American chameleon, anole, Anolis carolinensis",1,iguanid,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"whiptail, whiptail lizard",1.2,teiid_lizard,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+agama,1.4,agamid,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"frilled lizard, Chlamydosaurus kingi",0.98,agamid,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+alligator lizard,0.8,anguid_lizard,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"Gila monster, Heloderma suspectum",1.18,venomous_lizard,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"green lizard, Lacerta viridis",0.1,lacertid_lizard,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"African chameleon, Chamaeleo chamaeleon",1.16,chameleon,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",1.08,monitor,lizard,saurian,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"African crocodile, Nile crocodile, Crocodylus niloticus",0.94,crocodile,crocodile,crocodilian_reptile,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"American alligator, Alligator mississipiensis",1.66,alligator,alligator,crocodilian_reptile,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+triceratops,1.2,ornithischian,dinosaur,archosaur,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"thunder snake, worm snake, Carphophis amoenus",0.54,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"ringneck snake, ring-necked snake, ring snake",0.54,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"hognose snake, puff adder, sand viper",0.36,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"green snake, grass snake",0.42,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"king snake, kingsnake",0.14,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"garter snake, grass snake",0.42,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+water snake,0.76,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+vine snake,1.06,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"night snake, Hypsiglena torquata",0.38,colubrid_snake,colubrid_snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"boa constrictor, Constrictor constrictor",0.74,boa,constrictor,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"rock python, rock snake, Python sebae",0.12,boa,constrictor,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"Indian cobra, Naja naja",0.58,cobra,elapid,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+green mamba,0.28,mamba,elapid,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+sea snake,0.46,snake,snake,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",1.08,viper,viper,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"diamondback, diamondback rattlesnake, Crotalus adamanteus",0.06,pit_viper,viper,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+"sidewinder, horned rattlesnake, Crotalus cerastes",0.56,pit_viper,viper,snake,diapsid,reptile,vertebrate,chordate,animal,organism,living_thing
+trilobite,0.38,arthropod,arthropod,arthropod,arthropod,arthropod,arthropod,invertebrate,animal,organism,living_thing
+"harvestman, daddy longlegs, Phalangium opilio",0.62,arachnid,arachnid,arachnid,arachnid,arachnid,arthropod,invertebrate,animal,organism,living_thing
+scorpion,0.02,arachnid,arachnid,arachnid,arachnid,arachnid,arthropod,invertebrate,animal,organism,living_thing
+"black and gold garden spider, Argiope aurantia",0.58,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+"barn spider, Araneus cavaticus",0.56,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+"garden spider, Aranea diademata",0,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+"black widow, Latrodectus mactans",0.78,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+tarantula,0.14,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+"wolf spider, hunting spider",0.66,spider,spider,spider,spider,arachnid,arthropod,invertebrate,animal,organism,living_thing
+tick,0.18,acarine,acarine,acarine,acarine,arachnid,arthropod,invertebrate,animal,organism,living_thing
+centipede,0.86,arthropod,arthropod,arthropod,arthropod,arthropod,arthropod,invertebrate,animal,organism,living_thing
+black grouse,0.3,grouse,grouse,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+ptarmigan,0.48,grouse,grouse,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"ruffed grouse, partridge, Bonasa umbellus",0.24,grouse,grouse,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"prairie chicken, prairie grouse, prairie fowl",0.46,grouse,grouse,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+peacock,0.56,pheasant,phasianid,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+quail,0.38,phasianid,phasianid,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+partridge,0.14,phasianid,phasianid,game_bird,gallinaceous_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"African grey, African gray, Psittacus erithacus",0.3,parrot,parrot,parrot,parrot,bird,vertebrate,chordate,animal,organism,living_thing
+macaw,1.12,parrot,parrot,parrot,parrot,bird,vertebrate,chordate,animal,organism,living_thing
+"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",0.18,cockatoo,cockatoo,cockatoo,parrot,bird,vertebrate,chordate,animal,organism,living_thing
+lorikeet,0.12,lory,lory,lory,parrot,bird,vertebrate,chordate,animal,organism,living_thing
+coucal,0.82,cuckoo,cuckoo,cuckoo,cuculiform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+bee eater,0.64,coraciiform_bird,coraciiform_bird,coraciiform_bird,coraciiform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+hornbill,1.08,coraciiform_bird,coraciiform_bird,coraciiform_bird,coraciiform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+hummingbird,1,apodiform_bird,apodiform_bird,apodiform_bird,apodiform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+jacamar,0.58,piciform_bird,piciform_bird,piciform_bird,piciform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+toucan,0.3,piciform_bird,piciform_bird,piciform_bird,piciform_bird,bird,vertebrate,chordate,animal,organism,living_thing
+drake,0.2,duck,anseriform_bird,waterfowl,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"red-breasted merganser, Mergus serrator",0.54,duck,anseriform_bird,waterfowl,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+goose,0.82,anseriform_bird,anseriform_bird,waterfowl,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"black swan, Cygnus atratus",0.28,swan,swan,swan,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+tusker,0.24,mammal,mammal,mammal,mammal,mammal,vertebrate,chordate,animal,organism,living_thing
+"echidna, spiny anteater, anteater",0.8,monotreme,monotreme,monotreme,prototherian,mammal,vertebrate,chordate,animal,organism,living_thing
+"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",0.54,monotreme,monotreme,monotreme,prototherian,mammal,vertebrate,chordate,animal,organism,living_thing
+"wallaby, brush kangaroo",0.6,kangaroo,kangaroo,marsupial,metatherian,mammal,vertebrate,chordate,animal,organism,living_thing
+"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",0.7,phalanger,phalanger,marsupial,metatherian,mammal,vertebrate,chordate,animal,organism,living_thing
+wombat,0.44,marsupial,marsupial,marsupial,metatherian,mammal,vertebrate,chordate,animal,organism,living_thing
+jellyfish,1.08,coelenterate,coelenterate,coelenterate,coelenterate,coelenterate,coelenterate,invertebrate,animal,organism,living_thing
+"sea anemone, anemone",0.32,anthozoan,anthozoan,anthozoan,anthozoan,anthozoan,coelenterate,invertebrate,animal,organism,living_thing
+brain coral,0.38,stony_coral,stony_coral,stony_coral,coral,anthozoan,coelenterate,invertebrate,animal,organism,living_thing
+"flatworm, platyhelminth",0.3,worm,worm,worm,worm,worm,worm,invertebrate,animal,organism,living_thing
+"nematode, nematode worm, roundworm",0.1,worm,worm,worm,worm,worm,worm,invertebrate,animal,organism,living_thing
+conch,0.82,gastropod,gastropod,gastropod,gastropod,gastropod,mollusk,invertebrate,animal,organism,living_thing
+snail,0.28,gastropod,gastropod,gastropod,gastropod,gastropod,mollusk,invertebrate,animal,organism,living_thing
+slug,0.24,gastropod,gastropod,gastropod,gastropod,gastropod,mollusk,invertebrate,animal,organism,living_thing
+"sea slug, nudibranch",1.1,gastropod,gastropod,gastropod,gastropod,gastropod,mollusk,invertebrate,animal,organism,living_thing
+"chiton, coat-of-mail shell, sea cradle, polyplacophore",0.58,mollusk,mollusk,mollusk,mollusk,mollusk,mollusk,invertebrate,animal,organism,living_thing
+"chambered nautilus, pearly nautilus, nautilus",0.14,cephalopod,cephalopod,cephalopod,cephalopod,cephalopod,mollusk,invertebrate,animal,organism,living_thing
+"Dungeness crab, Cancer magister",0.38,crab,crab,crab,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"rock crab, Cancer irroratus",0.46,crab,crab,crab,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+fiddler crab,0.08,crab,crab,crab,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",0.24,crab,crab,crab,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"American lobster, Northern lobster, Maine lobster, Homarus americanus",0.24,true_lobster,true_lobster,lobster,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",1.02,lobster,lobster,lobster,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"crayfish, crawfish, crawdad, crawdaddy",1.14,decapod_crustacean,decapod_crustacean,decapod_crustacean,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+hermit crab,1.16,decapod_crustacean,decapod_crustacean,decapod_crustacean,decapod_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+isopod,0.84,malacostracan_crustacean,malacostracan_crustacean,malacostracan_crustacean,malacostracan_crustacean,crustacean,arthropod,invertebrate,animal,organism,living_thing
+"white stork, Ciconia ciconia",0.18,stork,stork,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"black stork, Ciconia nigra",0.36,stork,stork,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+spoonbill,0.48,wading_bird,wading_bird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+flamingo,0.1,wading_bird,wading_bird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"little blue heron, Egretta caerulea",0.36,heron,heron,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"American egret, great white heron, Egretta albus",0.14,egret,heron,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+bittern,0.16,heron,heron,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+crane,0.2,wading_bird,wading_bird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"limpkin, Aramus pictus",0.52,wading_bird,wading_bird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"European gallinule, Porphyrio porphyrio",0.76,purple_gallinule,purple_gallinule,gallinule,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"American coot, marsh hen, mud hen, water hen, Fulica americana",0.2,coot,rail,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+bustard,0.32,wading_bird,wading_bird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"ruddy turnstone, Arenaria interpres",0.78,plover,shorebird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"red-backed sandpiper, dunlin, Erolia alpina",0.36,sandpiper,shorebird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"redshank, Tringa totanus",0,sandpiper,shorebird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+dowitcher,0.28,snipe,shorebird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"oystercatcher, oyster catcher",1.04,shorebird,shorebird,wading_bird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+pelican,0.06,pelecaniform_seabird,pelecaniform_seabird,seabird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"king penguin, Aptenodytes patagonica",0.38,penguin,sphenisciform_seabird,seabird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"albatross, mollymawk",0,pelagic_bird,pelagic_bird,seabird,aquatic_bird,bird,vertebrate,chordate,animal,organism,living_thing
+"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",0.62,whale,cetacean,aquatic_mammal,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.74,whale,cetacean,aquatic_mammal,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"dugong, Dugong dugon",0.52,sea_cow,sea_cow,aquatic_mammal,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+sea lion,0.26,seal,pinniped_mammal,aquatic_mammal,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Chihuahua,0.4,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Japanese spaniel,0.16,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Maltese dog, Maltese terrier, Maltese",1.18,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Pekinese, Pekingese, Peke",0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Shih-Tzu,0.86,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Blenheim spaniel,0.52,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+papillon,0.78,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+toy terrier,1.16,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Rhodesian ridgeback,0.42,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Afghan hound, Afghan",0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"basset, basset hound",0.46,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+beagle,1.08,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"bloodhound, sleuthhound",0.88,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+bluetick,0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+black-and-tan coonhound,0.34,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Walker hound, Walker foxhound",1.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+English foxhound,0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+redbone,0.64,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"borzoi, Russian wolfhound",0.84,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Irish wolfhound,1.48,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Italian greyhound,0.72,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+whippet,0.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Ibizan hound, Ibizan Podenco",0.74,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Norwegian elkhound, elkhound",0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"otterhound, otter hound",0.56,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Saluki, gazelle hound",0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Scottish deerhound, deerhound",0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Weimaraner,0.18,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Staffordshire bullterrier, Staffordshire bull terrier",0.42,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",0.36,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Bedlington terrier,0.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Border terrier,1.08,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Kerry blue terrier,0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Irish terrier,0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Norfolk terrier,0.8,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Norwich terrier,0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Yorkshire terrier,0.54,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+wire-haired fox terrier,0.44,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Lakeland terrier,0.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Sealyham terrier, Sealyham",0.36,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Airedale, Airedale terrier",0.72,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"cairn, cairn terrier",1,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Australian terrier,0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Dandie Dinmont, Dandie Dinmont terrier",1.22,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Boston bull, Boston terrier",0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+miniature schnauzer,0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+giant schnauzer,0.58,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+standard schnauzer,0.36,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Scotch terrier, Scottish terrier, Scottie",1.54,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Tibetan terrier, chrysanthemum dog",0.62,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"silky terrier, Sydney silky",0.42,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+soft-coated wheaten terrier,0.82,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+West Highland white terrier,0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Lhasa, Lhasa apso",0.36,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+flat-coated retriever,0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+curly-coated retriever,0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+golden retriever,0.22,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Labrador retriever,0.6,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Chesapeake Bay retriever,0.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+German short-haired pointer,0.3,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"vizsla, Hungarian pointer",0.52,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+English setter,0.6,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Irish setter, red setter",0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Gordon setter,0.2,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Brittany spaniel,1.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"clumber, clumber spaniel",0.94,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"English springer, English springer spaniel",0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Welsh springer spaniel,0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"cocker spaniel, English cocker spaniel, cocker",0.72,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Sussex spaniel,0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Irish water spaniel,0.32,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+kuvasz,0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+schipperke,0.46,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+groenendael,0.74,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+malinois,0.66,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+briard,0.76,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+kelpie,0.9,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+komondor,0.84,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Old English sheepdog, bobtail",0.68,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Shetland sheepdog, Shetland sheep dog, Shetland",0.46,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+collie,0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Border collie,0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Bouvier des Flandres, Bouviers des Flandres",0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Rottweiler,0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"German shepherd, German shepherd dog, German police dog, alsatian",0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Doberman, Doberman pinscher",1.34,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+miniature pinscher,0.22,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Greater Swiss Mountain dog,0.54,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Bernese mountain dog,0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Appenzeller,0.32,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+EntleBucher,0.56,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+boxer,0.62,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+bull mastiff,0.72,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Tibetan mastiff,0.8,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+French bulldog,0.28,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Great Dane,0.46,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Saint Bernard, St Bernard",0.48,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Eskimo dog, husky",0.26,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"malamute, malemute, Alaskan malamute",0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Siberian husky,0.32,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"dalmatian, coach dog, carriage dog",0.48,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"affenpinscher, monkey pinscher, monkey dog",0.14,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+basenji,0.6,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"pug, pug-dog",0.06,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Leonberg,0.32,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Newfoundland, Newfoundland dog",0.12,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Great Pyrenees,0.24,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Samoyed, Samoyede",0.44,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Pomeranian,0.42,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"chow, chow chow",0.44,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+keeshond,0.54,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Brabancon griffon,0.38,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Pembroke, Pembroke Welsh corgi",0.5,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Cardigan, Cardigan Welsh corgi",0.7,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+toy poodle,0.16,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+miniature poodle,0.94,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+standard poodle,0.46,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Mexican hairless,0.54,dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"timber wolf, grey wolf, gray wolf, Canis lupus",0.16,wolf,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"white wolf, Arctic wolf, Canis lupus tundrarum",0.42,wolf,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"red wolf, maned wolf, Canis rufus, Canis niger",0.6,wolf,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"coyote, prairie wolf, brush wolf, Canis latrans",0.4,wolf,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"dingo, warrigal, warragal, Canis dingo",0.16,wild_dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"dhole, Cuon alpinus",1.12,wild_dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",0.52,wild_dog,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"hyena, hyaena",0.4,canine,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"red fox, Vulpes vulpes",0.8,fox,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"kit fox, Vulpes macrotis",0.14,fox,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Arctic fox, white fox, Alopex lagopus",0.32,fox,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"grey fox, gray fox, Urocyon cinereoargenteus",0.88,fox,canine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"tabby, tabby cat",0.5,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+tiger cat,0.48,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Persian cat,0.36,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Siamese cat, Siamese",0.22,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+Egyptian cat,0.84,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",0.72,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"lynx, catamount",0.18,cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"leopard, Panthera pardus",0.5,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"snow leopard, ounce, Panthera uncia",1.2,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"jaguar, panther, Panthera onca, Felis onca",0.94,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"lion, king of beasts, Panthera leo",1.2,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"tiger, Panthera tigris",0.56,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"cheetah, chetah, Acinonyx jubatus",0.5,big_cat,feline,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"brown bear, bruin, Ursus arctos",0.88,bear,bear,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"American black bear, black bear, Ursus americanus, Euarctos americanus",0.58,bear,bear,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.66,bear,bear,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"sloth bear, Melursus ursinus, Ursus ursinus",0.5,bear,bear,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+mongoose,1.44,viverrine,viverrine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"meerkat, mierkat",0.12,viverrine,viverrine,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+tiger beetle,0.18,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",0.52,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+"ground beetle, carabid beetle",0.12,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+"long-horned beetle, longicorn, longicorn beetle",0.56,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+"leaf beetle, chrysomelid",0.88,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+dung beetle,0.46,scarabaeid_beetle,scarabaeid_beetle,lamellicorn_beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+rhinoceros beetle,0.42,scarabaeid_beetle,scarabaeid_beetle,lamellicorn_beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+weevil,0.68,beetle,beetle,beetle,beetle,insect,arthropod,invertebrate,animal,organism,living_thing
+fly,0.44,dipterous_insect,dipterous_insect,dipterous_insect,dipterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+bee,0.4,hymenopterous_insect,hymenopterous_insect,hymenopterous_insect,hymenopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"ant, emmet, pismire",0.26,hymenopterous_insect,hymenopterous_insect,hymenopterous_insect,hymenopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"grasshopper, hopper",0.54,orthopterous_insect,orthopterous_insect,orthopterous_insect,orthopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+cricket,0.5,orthopterous_insect,orthopterous_insect,orthopterous_insect,orthopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"walking stick, walkingstick, stick insect",0.12,phasmid,phasmid,phasmid,phasmid,insect,arthropod,invertebrate,animal,organism,living_thing
+"cockroach, roach",0.86,dictyopterous_insect,dictyopterous_insect,dictyopterous_insect,dictyopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"mantis, mantid",0.46,dictyopterous_insect,dictyopterous_insect,dictyopterous_insect,dictyopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"cicada, cicala",0.5,homopterous_insect,homopterous_insect,homopterous_insect,homopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+leafhopper,0.38,homopterous_insect,homopterous_insect,homopterous_insect,homopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"lacewing, lacewing fly",0.78,neuropteron,neuropteron,neuropteron,neuropteron,insect,arthropod,invertebrate,animal,organism,living_thing
+"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",0.28,odonate,odonate,odonate,odonate,insect,arthropod,invertebrate,animal,organism,living_thing
+damselfly,0.34,odonate,odonate,odonate,odonate,insect,arthropod,invertebrate,animal,organism,living_thing
+admiral,1.12,nymphalid,nymphalid,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"ringlet, ringlet butterfly",0.58,butterfly,butterfly,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",0.24,danaid,danaid,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+cabbage butterfly,0.86,pierid,pierid,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"sulphur butterfly, sulfur butterfly",0.36,butterfly,butterfly,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"lycaenid, lycaenid butterfly",0.14,butterfly,butterfly,butterfly,lepidopterous_insect,insect,arthropod,invertebrate,animal,organism,living_thing
+"starfish, sea star",1,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,invertebrate,animal,organism,living_thing
+sea urchin,0.26,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,invertebrate,animal,organism,living_thing
+"sea cucumber, holothurian",0.88,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,echinoderm,invertebrate,animal,organism,living_thing
+"wood rabbit, cottontail, cottontail rabbit",0.48,rabbit,leporid,lagomorph,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+hare,0.44,leporid,leporid,lagomorph,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Angora, Angora rabbit",0.14,rabbit,leporid,lagomorph,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+hamster,0.16,rodent,rodent,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"porcupine, hedgehog",0.44,rodent,rodent,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"fox squirrel, eastern fox squirrel, Sciurus niger",0.74,tree_squirrel,squirrel,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+marmot,0.72,rodent,rodent,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+beaver,0.28,rodent,rodent,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"guinea pig, Cavia cobaya",0.4,cavy,cavy,rodent,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+sorrel,0.26,equine,odd-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+zebra,0.66,equine,odd-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"hog, pig, grunter, squealer, Sus scrofa",0.76,swine,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"wild boar, boar, Sus scrofa",0.64,swine,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+warthog,0.2,swine,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.48,even-toed_ungulate,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+ox,0.54,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.46,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+bison,0.08,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"ram, tup",0.46,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.4,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"ibex, Capra ibex",0.34,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+hartebeest,0.92,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"impala, Aepyceros melampus",0.86,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+gazelle,1.44,ruminant,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Arabian camel, dromedary, Camelus dromedarius",0.8,camel,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+llama,0.1,even-toed_ungulate,even-toed_ungulate,ungulate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+weasel,0.6,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+mink,0.32,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"polecat, fitch, foulmart, foumart, Mustela putorius",0.22,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"black-footed ferret, ferret, Mustela nigripes",0.26,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+otter,0.5,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"skunk, polecat, wood pussy",0.58,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+badger,0.72,musteline_mammal,musteline_mammal,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+armadillo,0.72,edentate,edentate,edentate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"three-toed sloth, ai, Bradypus tridactylus",0.48,sloth,sloth,edentate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"orangutan, orang, orangutang, Pongo pygmaeus",0.2,anthropoid_ape,ape,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"gorilla, Gorilla gorilla",0.32,anthropoid_ape,ape,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"chimpanzee, chimp, Pan troglodytes",0.72,anthropoid_ape,ape,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"gibbon, Hylobates lar",0.52,anthropoid_ape,ape,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"siamang, Hylobates syndactylus, Symphalangus syndactylus",0.18,anthropoid_ape,ape,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"guenon, guenon monkey",0.38,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"patas, hussar monkey, Erythrocebus patas",0.62,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+baboon,0.12,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+macaque,0.16,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+langur,0.58,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"colobus, colobus monkey",0.34,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"proboscis monkey, Nasalis larvatus",0.46,old_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+marmoset,0.26,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"capuchin, ringtail, Cebus capucinus",0.74,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"howler monkey, howler",0.72,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"titi, titi monkey",0.46,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"spider monkey, Ateles geoffroyi",0.74,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"squirrel monkey, Saimiri sciureus",0.68,new_world_monkey,monkey,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Madagascar cat, ring-tailed lemur, Lemur catta",1.32,lemur,lemur,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"indri, indris, Indri indri, Indri brevicaudatus",0.6,lemur,lemur,primate,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"Indian elephant, Elephas maximus",0.52,elephant,elephant,pachyderm,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"African elephant, Loxodonta africana",0.64,elephant,elephant,pachyderm,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",0.14,procyonid,procyonid,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",0.56,procyonid,procyonid,carnivore,placental,mammal,vertebrate,chordate,animal,organism,living_thing
+"barracouta, snoek",0.72,food_fish,food_fish,food_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+eel,0.16,soft-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",0.12,salmon,salmon,food_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"rock beauty, Holocanthus tricolor",0.2,spiny-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+anemone fish,0.68,spiny-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+sturgeon,0.24,ganoid,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"gar, garfish, garpike, billfish, Lepisosteus osseus",0.14,ganoid,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+lionfish,0.7,spiny-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+"puffer, pufferfish, blowfish, globefish",0.44,spiny-finned_fish,teleost_fish,bony_fish,fish,aquatic_vertebrate,vertebrate,chordate,animal,organism,living_thing
+abacus,0.62,calculator,calculator,calculator,calculator,calculator,calculator,machine,device,instrumentality,artifact
+abaya,0.2,robe,robe,robe,robe,robe,garment,clothing,consumer_goods,commodity,artifact
+"academic gown, academic robe, judge's robe",0.18,gown,gown,gown,gown,gown,outerwear,clothing,consumer_goods,commodity,artifact
+"accordion, piano accordion, squeeze box",0.54,free-reed_instrument,free-reed_instrument,free-reed_instrument,free-reed_instrument,free-reed_instrument,wind_instrument,musical_instrument,device,instrumentality,artifact
+acoustic guitar,0.58,guitar,guitar,guitar,guitar,guitar,stringed_instrument,musical_instrument,device,instrumentality,artifact
+"aircraft carrier, carrier, flattop, attack aircraft carrier",0.2,warship,warship,warship,warship,warship,military_vehicle,vehicle,conveyance,instrumentality,artifact
+airliner,0.7,airplane,airplane,airplane,heavier-than-air_craft,aircraft,craft,vehicle,conveyance,instrumentality,artifact
+"airship, dirigible",0.36,lighter-than-air_craft,lighter-than-air_craft,lighter-than-air_craft,lighter-than-air_craft,aircraft,craft,vehicle,conveyance,instrumentality,artifact
+altar,0.54,structure,structure,structure,structure,structure,structure,structure,structure,structure,artifact
+ambulance,0.06,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"amphibian, amphibious vehicle",0.2,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+analog clock,1.02,clock,clock,clock,clock,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+"apiary, bee house",0.98,shed,shed,shed,shed,shed,shed,outbuilding,building,structure,artifact
+apron,0.28,protective_garment,protective_garment,protective_garment,protective_garment,protective_garment,protective_garment,clothing,consumer_goods,commodity,artifact
+"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",0.44,bin,bin,bin,bin,bin,bin,bin,container,instrumentality,artifact
+"assault rifle, assault gun",0.14,automatic_rifle,automatic_firearm,autoloader,firearm,gun,weapon,instrument,device,instrumentality,artifact
+"backpack, back pack, knapsack, packsack, rucksack, haversack",0.5,bag,bag,bag,bag,bag,bag,bag,container,instrumentality,artifact
+"bakery, bakeshop, bakehouse",0.72,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+"balance beam, beam",0.54,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,sports_equipment,equipment,instrumentality,artifact
+balloon,0.04,lighter-than-air_craft,lighter-than-air_craft,lighter-than-air_craft,lighter-than-air_craft,aircraft,craft,vehicle,conveyance,instrumentality,artifact
+"ballpoint, ballpoint pen, ballpen, Biro",0.82,pen,pen,pen,pen,pen,pen,writing_implement,implement,instrumentality,artifact
+Band Aid,0.5,adhesive_bandage,adhesive_bandage,adhesive_bandage,adhesive_bandage,adhesive_bandage,bandage,dressing,cloth_covering,covering,artifact
+banjo,0.18,stringed_instrument,stringed_instrument,stringed_instrument,stringed_instrument,stringed_instrument,stringed_instrument,musical_instrument,device,instrumentality,artifact
+"bannister, banister, balustrade, balusters, handrail",0.64,barrier,barrier,barrier,barrier,barrier,barrier,barrier,obstruction,structure,artifact
+barbell,0.28,weight,weight,weight,weight,weight,weight,sports_equipment,equipment,instrumentality,artifact
+barber chair,0.46,chair,chair,chair,chair,chair,seat,furniture,furnishing,instrumentality,artifact
+barbershop,0.52,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+barn,0.32,farm_building,farm_building,farm_building,farm_building,farm_building,farm_building,farm_building,building,structure,artifact
+barometer,0.58,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,instrument,device,instrumentality,artifact
+"barrel, cask",0.46,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+"barrow, garden cart, lawn cart, wheelbarrow",0.64,handcart,handcart,handcart,handcart,handcart,handcart,wheeled_vehicle,container,instrumentality,artifact
+baseball,0.62,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+basketball,0.96,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+bassinet,0.84,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,furniture,furnishing,instrumentality,artifact
+bassoon,0.22,double-reed_instrument,double-reed_instrument,double-reed_instrument,beating-reed_instrument,woodwind,wind_instrument,musical_instrument,device,instrumentality,artifact
+"bathing cap, swimming cap",0.26,cap,cap,cap,cap,cap,headdress,clothing,consumer_goods,commodity,artifact
+bath towel,0.34,bath_linen,bath_linen,bath_linen,bath_linen,bath_linen,linen,white_goods,drygoods,commodity,artifact
+"bathtub, bathing tub, bath, tub",0.72,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.28,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"beacon, lighthouse, beacon light, pharos",1.14,tower,tower,tower,tower,tower,tower,tower,tower,structure,artifact
+beaker,0.82,jar,jar,jar,jar,jar,jar,vessel,container,instrumentality,artifact
+"bearskin, busby, shako",0.62,hat,hat,hat,hat,hat,headdress,clothing,consumer_goods,commodity,artifact
+beer bottle,0.32,bottle,bottle,bottle,bottle,bottle,bottle,vessel,container,instrumentality,artifact
+beer glass,0.76,glass,glass,glass,glass,glass,glass,glass,container,instrumentality,artifact
+"bell cote, bell cot",0.24,shelter,shelter,shelter,shelter,shelter,shelter,shelter,protective_covering,covering,artifact
+bib,0.36,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,fabric,artifact
+"bicycle-built-for-two, tandem bicycle, tandem",0.26,bicycle,bicycle,bicycle,bicycle,bicycle,bicycle,wheeled_vehicle,container,instrumentality,artifact
+"bikini, two-piece",0.06,swimsuit,swimsuit,swimsuit,swimsuit,swimsuit,garment,clothing,consumer_goods,commodity,artifact
+"binder, ring-binder",0.14,protective_covering,protective_covering,protective_covering,protective_covering,protective_covering,protective_covering,protective_covering,protective_covering,covering,artifact
+"binoculars, field glasses, opera glasses",0.22,optical_instrument,optical_instrument,optical_instrument,optical_instrument,optical_instrument,optical_instrument,instrument,device,instrumentality,artifact
+birdhouse,0.28,shelter,shelter,shelter,shelter,shelter,shelter,shelter,protective_covering,covering,artifact
+boathouse,0.28,shed,shed,shed,shed,shed,shed,outbuilding,building,structure,artifact
+"bobsled, bobsleigh, bob",0.14,sled,sled,sled,sled,sled,sled,vehicle,conveyance,instrumentality,artifact
+"bolo tie, bolo, bola tie, bola",0.16,necktie,necktie,necktie,necktie,neckwear,garment,clothing,consumer_goods,commodity,artifact
+"bonnet, poke bonnet",0.14,hat,hat,hat,hat,hat,headdress,clothing,consumer_goods,commodity,artifact
+bookcase,0.14,furniture,furniture,furniture,furniture,furniture,furniture,furniture,furnishing,instrumentality,artifact
+"bookshop, bookstore, bookstall",0.76,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+bottlecap,0.52,cap,cap,cap,cap,cap,cap,cap,top,covering,artifact
+bow,0.3,weapon,weapon,weapon,weapon,weapon,weapon,instrument,device,instrumentality,artifact
+"bow tie, bow-tie, bowtie",0.22,necktie,necktie,necktie,necktie,neckwear,garment,clothing,consumer_goods,commodity,artifact
+"brass, memorial tablet, plaque",0.46,memorial,memorial,memorial,memorial,memorial,memorial,memorial,memorial,structure,artifact
+"brassiere, bra, bandeau",0.22,undergarment,undergarment,undergarment,undergarment,undergarment,garment,clothing,consumer_goods,commodity,artifact
+"breakwater, groin, groyne, mole, bulwark, seawall, jetty",0.18,barrier,barrier,barrier,barrier,barrier,barrier,barrier,obstruction,structure,artifact
+"breastplate, aegis, egis",0.38,armor_plate,armor_plate,armor_plate,armor_plate,armor_plate,plate,shield,protective_covering,covering,artifact
+broom,1.02,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,implement,instrumentality,artifact
+"bucket, pail",0.24,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+buckle,0.76,fastener,fastener,fastener,fastener,fastener,fastener,restraint,device,instrumentality,artifact
+bulletproof vest,0.5,body_armor,body_armor,body_armor,body_armor,body_armor,body_armor,armor,protective_covering,covering,artifact
+"bullet train, bullet",0.62,passenger_train,passenger_train,passenger_train,passenger_train,passenger_train,train,public_transport,conveyance,instrumentality,artifact
+"butcher shop, meat market",0.04,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+"cab, hack, taxi, taxicab",0.28,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"caldron, cauldron",0.46,pot,pot,pot,pot,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+"candle, taper, wax light",0.48,lamp,lamp,lamp,lamp,lamp,lamp,source_of_illumination,device,instrumentality,artifact
+cannon,0.4,gun,gun,gun,gun,gun,weapon,instrument,device,instrumentality,artifact
+canoe,0.32,small_boat,small_boat,small_boat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"can opener, tin opener",0.74,opener,opener,opener,opener,opener,hand_tool,tool,implement,instrumentality,artifact
+cardigan,0.84,sweater,sweater,sweater,sweater,sweater,garment,clothing,consumer_goods,commodity,artifact
+car mirror,0.4,mirror,mirror,mirror,mirror,mirror,mirror,reflector,device,instrumentality,artifact
+"carousel, carrousel, merry-go-round, roundabout, whirligig",0.84,ride,ride,ride,ride,ride,mechanical_device,mechanism,device,instrumentality,artifact
+"carpenter's kit, tool kit",0.48,kit,kit,kit,kit,kit,kit,gear,equipment,instrumentality,artifact
+carton,0.36,box,box,box,box,box,box,box,container,instrumentality,artifact
+car wheel,0.34,wheel,wheel,wheel,wheel,machine,mechanical_device,mechanism,device,instrumentality,artifact
+"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",0.78,machine,machine,machine,machine,machine,machine,machine,device,instrumentality,artifact
+cassette,1.4,container,container,container,container,container,container,container,container,instrumentality,artifact
+cassette player,0.18,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+castle,0.7,fortification,fortification,fortification,fortification,fortification,fortification,fortification,defensive_structure,structure,artifact
+catamaran,0.3,sailboat,sailboat,sailboat,sailing_vessel,vessel,craft,vehicle,conveyance,instrumentality,artifact
+CD player,0.22,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+"cello, violoncello",0.48,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,stringed_instrument,musical_instrument,device,instrumentality,artifact
+"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.24,radiotelephone,radiotelephone,radiotelephone,radiotelephone,radiotelephone,telephone,electronic_equipment,equipment,instrumentality,artifact
+chain,0.5,ligament,ligament,ligament,ligament,ligament,ligament,attachment,connection,instrumentality,artifact
+chainlink fence,0.56,fence,fence,fence,fence,fence,fence,barrier,obstruction,structure,artifact
+"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",0.1,body_armor,body_armor,body_armor,body_armor,body_armor,body_armor,armor,protective_covering,covering,artifact
+"chain saw, chainsaw",0.1,power_saw,power_saw,power_saw,power_saw,power_saw,power_tool,machine,device,instrumentality,artifact
+chest,0.38,box,box,box,box,box,box,box,container,instrumentality,artifact
+"chiffonier, commode",0.38,chest_of_drawers,chest_of_drawers,chest_of_drawers,chest_of_drawers,chest_of_drawers,chest_of_drawers,furniture,furnishing,instrumentality,artifact
+"chime, bell, gong",0,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+"china cabinet, china closet",1.04,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,furniture,furnishing,instrumentality,artifact
+Christmas stocking,0.54,stocking,stocking,stocking,stocking,hosiery,footwear,clothing,consumer_goods,commodity,artifact
+"church, church building",0.76,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,building,structure,artifact
+"cinema, movie theater, movie theatre, movie house, picture palace",0.14,theater,theater,theater,theater,theater,theater,theater,building,structure,artifact
+"cleaver, meat cleaver, chopper",0.34,knife,knife,knife,edge_tool,cutter,cutting_implement,tool,implement,instrumentality,artifact
+cliff dwelling,0.02,dwelling,dwelling,dwelling,dwelling,dwelling,dwelling,dwelling,housing,structure,artifact
+cloak,0.14,covering,covering,covering,covering,covering,covering,covering,covering,covering,artifact
+"clog, geta, patten, sabot",0.2,footwear,footwear,footwear,footwear,footwear,footwear,footwear,footwear,covering,artifact
+cocktail shaker,0.14,shaker,shaker,shaker,shaker,shaker,shaker,shaker,container,instrumentality,artifact
+coffee mug,0.38,mug,mug,mug,mug,mug,drinking_vessel,vessel,container,instrumentality,artifact
+coffeepot,0.38,pot,pot,pot,pot,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+"coil, spiral, volute, whorl, helix",1,structure,structure,structure,structure,structure,structure,structure,structure,structure,artifact
+combination lock,0.26,lock,lock,lock,lock,lock,fastener,restraint,device,instrumentality,artifact
+"computer keyboard, keypad",0.3,data_input_device,data_input_device,data_input_device,data_input_device,data_input_device,peripheral,electronic_equipment,equipment,instrumentality,artifact
+"confectionery, confectionary, candy store",0.84,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+"container ship, containership, container vessel",0.42,cargo_ship,cargo_ship,cargo_ship,ship,vessel,craft,vehicle,conveyance,instrumentality,artifact
+convertible,1.1,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"corkscrew, bottle screw",0.7,bottle_opener,bottle_opener,bottle_opener,bottle_opener,opener,hand_tool,tool,implement,instrumentality,artifact
+"cornet, horn, trumpet, trump",0.32,brass,brass,brass,brass,brass,wind_instrument,musical_instrument,device,instrumentality,artifact
+cowboy boot,0.5,boot,boot,boot,boot,boot,boot,boot,footwear,covering,artifact
+"cowboy hat, ten-gallon hat",0.6,hat,hat,hat,hat,hat,headdress,clothing,consumer_goods,commodity,artifact
+cradle,0.66,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,furniture,furnishing,instrumentality,artifact
+crane,0.96,lifting_device,lifting_device,lifting_device,lifting_device,lifting_device,lifting_device,lifting_device,device,instrumentality,artifact
+crash helmet,1.16,helmet,helmet,helmet,helmet,helmet,headdress,clothing,consumer_goods,commodity,artifact
+crate,1.08,box,box,box,box,box,box,box,container,instrumentality,artifact
+"crib, cot",0.76,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,baby_bed,furniture,furnishing,instrumentality,artifact
+Crock Pot,0.42,cooker,cooker,cooker,cooker,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+croquet ball,0.46,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+crutch,1,staff,staff,staff,staff,staff,staff,stick,implement,instrumentality,artifact
+cuirass,0.46,body_armor,body_armor,body_armor,body_armor,body_armor,body_armor,armor,protective_covering,covering,artifact
+"dam, dike, dyke",0.4,barrier,barrier,barrier,barrier,barrier,barrier,barrier,obstruction,structure,artifact
+desk,0.14,table,table,table,table,table,table,furniture,furnishing,instrumentality,artifact
+desktop computer,0.6,personal_computer,personal_computer,personal_computer,personal_computer,digital_computer,computer,machine,device,instrumentality,artifact
+"dial telephone, dial phone",0.56,telephone,telephone,telephone,telephone,telephone,telephone,electronic_equipment,equipment,instrumentality,artifact
+"diaper, nappy, napkin",0.84,garment,garment,garment,garment,garment,garment,clothing,consumer_goods,commodity,artifact
+digital clock,0.54,clock,clock,clock,clock,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+digital watch,1.48,watch,watch,watch,watch,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+"dining table, board",1.02,table,table,table,table,table,table,furniture,furnishing,instrumentality,artifact
+"dishrag, dishcloth",0.16,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,fabric,artifact
+"dishwasher, dish washer, dishwashing machine",0.06,white_goods,white_goods,white_goods,white_goods,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"disk brake, disc brake",1.2,hydraulic_brake,hydraulic_brake,hydraulic_brake,hydraulic_brake,brake_system,brake,restraint,device,instrumentality,artifact
+"dock, dockage, docking facility",0.22,landing,landing,landing,landing,landing,landing,landing,landing,structure,artifact
+"dogsled, dog sled, dog sleigh",0.16,sled,sled,sled,sled,sled,sled,vehicle,conveyance,instrumentality,artifact
+dome,0.28,roof,roof,roof,roof,roof,roof,roof,protective_covering,covering,artifact
+"doormat, welcome mat",0.14,mat,mat,mat,mat,mat,mat,mat,floor_cover,covering,artifact
+"drilling platform, offshore rig",1.3,drill_rig,drill_rig,drill_rig,drill_rig,drill_rig,rig,gear,equipment,instrumentality,artifact
+"drum, membranophone, tympan",0.56,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+drumstick,0.76,stick,stick,stick,stick,stick,stick,stick,implement,instrumentality,artifact
+dumbbell,0.26,weight,weight,weight,weight,weight,weight,sports_equipment,equipment,instrumentality,artifact
+Dutch oven,0.26,oven,oven,oven,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"electric fan, blower",0.3,fan,fan,fan,fan,fan,fan,fan,device,instrumentality,artifact
+electric guitar,0.38,guitar,guitar,guitar,guitar,guitar,stringed_instrument,musical_instrument,device,instrumentality,artifact
+electric locomotive,0.12,locomotive,locomotive,locomotive,locomotive,locomotive,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+entertainment center,0.42,wall_unit,wall_unit,wall_unit,wall_unit,wall_unit,wall_unit,furniture,furnishing,instrumentality,artifact
+envelope,0.94,container,container,container,container,container,container,container,container,instrumentality,artifact
+espresso maker,0.38,coffee_maker,coffee_maker,coffee_maker,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+face powder,0.4,makeup,makeup,makeup,makeup,makeup,makeup,cosmetic,toiletry,instrumentality,artifact
+"feather boa, boa",0.52,scarf,scarf,scarf,scarf,scarf,garment,clothing,consumer_goods,commodity,artifact
+"file, file cabinet, filing cabinet",0.54,office_furniture,office_furniture,office_furniture,office_furniture,office_furniture,office_furniture,furniture,furnishing,instrumentality,artifact
+fireboat,0.28,boat,boat,boat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"fire engine, fire truck",0.56,truck,truck,truck,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"fire screen, fireguard",0.46,screen,screen,screen,screen,screen,screen,screen,protective_covering,covering,artifact
+"flagpole, flagstaff",0.24,staff,staff,staff,staff,staff,staff,stick,implement,instrumentality,artifact
+"flute, transverse flute",0.22,woodwind,woodwind,woodwind,woodwind,woodwind,wind_instrument,musical_instrument,device,instrumentality,artifact
+folding chair,0.78,chair,chair,chair,chair,chair,seat,furniture,furnishing,instrumentality,artifact
+football helmet,0.6,helmet,helmet,helmet,helmet,helmet,headdress,clothing,consumer_goods,commodity,artifact
+forklift,0.14,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+fountain,0.56,structure,structure,structure,structure,structure,structure,structure,structure,structure,artifact
+fountain pen,0.78,pen,pen,pen,pen,pen,pen,writing_implement,implement,instrumentality,artifact
+four-poster,0.16,bed,bed,bed,bed,bed,bedroom_furniture,furniture,furnishing,instrumentality,artifact
+freight car,1.2,car,car,car,car,car,car,wheeled_vehicle,container,instrumentality,artifact
+"French horn, horn",0.62,brass,brass,brass,brass,brass,wind_instrument,musical_instrument,device,instrumentality,artifact
+"frying pan, frypan, skillet",0.98,pan,pan,pan,pan,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+fur coat,0.2,coat,coat,coat,coat,overgarment,garment,clothing,consumer_goods,commodity,artifact
+"garbage truck, dustcart",0.36,truck,truck,truck,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"gasmask, respirator, gas helmet",0.18,mask,mask,mask,mask,mask,mask,mask,protective_covering,covering,artifact
+"gas pump, gasoline pump, petrol pump, island dispenser",0.34,pump,pump,pump,pump,pump,mechanical_device,mechanism,device,instrumentality,artifact
+goblet,0.32,glass,glass,glass,glass,glass,glass,glass,container,instrumentality,artifact
+go-kart,0.76,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+golf ball,0.92,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+"golfcart, golf cart",0.6,golf_equipment,golf_equipment,golf_equipment,golf_equipment,golf_equipment,golf_equipment,sports_equipment,equipment,instrumentality,artifact
+gondola,0.14,boat,boat,boat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"gong, tam-tam",0.48,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+gown,0.8,dress,dress,dress,dress,dress,woman's_clothing,clothing,consumer_goods,commodity,artifact
+"grand piano, grand",0.52,piano,piano,piano,piano,piano,keyboard_instrument,musical_instrument,device,instrumentality,artifact
+"greenhouse, nursery, glasshouse",0.12,building,building,building,building,building,building,building,building,structure,artifact
+"grille, radiator grille",0.58,grate,grate,grate,grate,grate,grate,barrier,obstruction,structure,artifact
+"grocery store, grocery, food market, market",0.84,marketplace,marketplace,marketplace,marketplace,marketplace,mercantile_establishment,place_of_business,establishment,structure,artifact
+guillotine,0.14,instrument_of_execution,instrument_of_execution,instrument_of_execution,instrument_of_execution,instrument_of_execution,instrument_of_execution,instrument,device,instrumentality,artifact
+hair slide,0.18,clip,clip,clip,clip,clip,fastener,restraint,device,instrumentality,artifact
+hair spray,0,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,instrumentality,artifact
+half track,0.56,military_vehicle,military_vehicle,military_vehicle,military_vehicle,military_vehicle,military_vehicle,vehicle,conveyance,instrumentality,artifact
+hammer,0.82,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,tool,implement,instrumentality,artifact
+hamper,0.88,basket,basket,basket,basket,basket,basket,basket,container,instrumentality,artifact
+"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.42,blower,blower,blower,blower,blower,blower,blower,device,instrumentality,artifact
+"hand-held computer, hand-held microcomputer",0.26,portable_computer,portable_computer,portable_computer,personal_computer,digital_computer,computer,machine,device,instrumentality,artifact
+"handkerchief, hankie, hanky, hankey",0.72,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,piece_of_cloth,fabric,artifact
+"hard disc, hard disk, fixed disk",0.18,magnetic_disk,magnetic_disk,magnetic_disk,magnetic_disk,magnetic_disk,magnetic_disk,memory_device,device,instrumentality,artifact
+"harmonica, mouth organ, harp, mouth harp",0.12,free-reed_instrument,free-reed_instrument,free-reed_instrument,free-reed_instrument,free-reed_instrument,wind_instrument,musical_instrument,device,instrumentality,artifact
+harp,0.4,chordophone,chordophone,chordophone,chordophone,chordophone,stringed_instrument,musical_instrument,device,instrumentality,artifact
+"harvester, reaper",1.02,farm_machine,farm_machine,farm_machine,farm_machine,farm_machine,farm_machine,machine,device,instrumentality,artifact
+hatchet,0.06,ax,ax,ax,edge_tool,cutter,cutting_implement,tool,implement,instrumentality,artifact
+holster,0.42,sheath,sheath,sheath,sheath,sheath,sheath,sheath,protective_covering,covering,artifact
+"home theater, home theatre",0.2,theater,theater,theater,theater,theater,theater,theater,building,structure,artifact
+honeycomb,1.52,framework,framework,framework,framework,framework,framework,framework,supporting_structure,structure,artifact
+"hook, claw",1,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanism,device,instrumentality,artifact
+"hoopskirt, crinoline",1.62,skirt,skirt,skirt,skirt,skirt,garment,clothing,consumer_goods,commodity,artifact
+"horizontal bar, high bar",0.12,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,sports_equipment,equipment,instrumentality,artifact
+"horse cart, horse-cart",1.24,cart,cart,cart,cart,cart,wagon,wheeled_vehicle,container,instrumentality,artifact
+hourglass,0.6,sandglass,sandglass,sandglass,sandglass,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+iPod,0.18,stereo,stereo,stereo,stereo,reproducer,audio_system,electronic_equipment,equipment,instrumentality,artifact
+"iron, smoothing iron",0.2,home_appliance,home_appliance,home_appliance,home_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+jack-o'-lantern,0.32,lantern,lantern,lantern,lantern,lantern,lamp,source_of_illumination,device,instrumentality,artifact
+"jean, blue jean, denim",0.14,trouser,trouser,trouser,trouser,trouser,garment,clothing,consumer_goods,commodity,artifact
+"jeep, landrover",0.36,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"jersey, T-shirt, tee shirt",0.22,shirt,shirt,shirt,shirt,shirt,garment,clothing,consumer_goods,commodity,artifact
+jigsaw puzzle,0,puzzle,puzzle,puzzle,puzzle,puzzle,game,game_equipment,equipment,instrumentality,artifact
+"jinrikisha, ricksha, rickshaw",0.16,cart,cart,cart,cart,cart,wagon,wheeled_vehicle,container,instrumentality,artifact
+joystick,0.28,control,control,control,control,control,control,mechanism,device,instrumentality,artifact
+kimono,0.28,robe,robe,robe,robe,robe,garment,clothing,consumer_goods,commodity,artifact
+knee pad,0.2,protective_garment,protective_garment,protective_garment,protective_garment,protective_garment,protective_garment,clothing,consumer_goods,commodity,artifact
+knot,0.4,fastener,fastener,fastener,fastener,fastener,fastener,restraint,device,instrumentality,artifact
+"lab coat, laboratory coat",0.66,coat,coat,coat,coat,overgarment,garment,clothing,consumer_goods,commodity,artifact
+ladle,0.8,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+"lampshade, lamp shade",0.56,shade,shade,shade,shade,shade,shade,shade,protective_covering,covering,artifact
+"laptop, laptop computer",0.1,portable_computer,portable_computer,portable_computer,personal_computer,digital_computer,computer,machine,device,instrumentality,artifact
+"lawn mower, mower",0.74,garden_tool,garden_tool,garden_tool,garden_tool,garden_tool,garden_tool,tool,implement,instrumentality,artifact
+"lens cap, lens cover",0.48,cap,cap,cap,cap,cap,cap,cap,protective_covering,covering,artifact
+"letter opener, paper knife, paperknife",0.56,knife,knife,knife,edge_tool,cutter,cutting_implement,tool,implement,instrumentality,artifact
+library,0.48,building,building,building,building,building,building,building,building,structure,artifact
+lifeboat,0.8,sea_boat,sea_boat,sea_boat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"lighter, light, igniter, ignitor",0.56,device,device,device,device,device,device,device,device,instrumentality,artifact
+"limousine, limo",0.38,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"liner, ocean liner",0.68,passenger_ship,passenger_ship,passenger_ship,ship,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"lipstick, lip rouge",0.54,makeup,makeup,makeup,makeup,makeup,makeup,cosmetic,toiletry,instrumentality,artifact
+Loafer,0.96,shoe,shoe,shoe,shoe,shoe,shoe,shoe,footwear,covering,artifact
+lotion,0.3,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,instrumentality,artifact
+"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",0.74,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,transducer,electrical_device,device,instrumentality,artifact
+"loupe, jeweler's loupe",0.08,hand_glass,hand_glass,light_microscope,microscope,magnifier,scientific_instrument,instrument,device,instrumentality,artifact
+"lumbermill, sawmill",0.16,factory,factory,factory,factory,factory,factory,plant,building_complex,structure,artifact
+magnetic compass,0.68,compass,compass,compass,compass,compass,navigational_instrument,instrument,device,instrumentality,artifact
+"mailbag, postbag",0.38,bag,bag,bag,bag,bag,bag,bag,container,instrumentality,artifact
+"mailbox, letter box",0.24,box,box,box,box,box,box,box,container,instrumentality,artifact
+maillot,0.4,tights,tights,tights,tights,hosiery,footwear,clothing,consumer_goods,commodity,artifact
+"maillot, tank suit",0.1,swimsuit,swimsuit,swimsuit,swimsuit,swimsuit,garment,clothing,consumer_goods,commodity,artifact
+manhole cover,0.2,top,top,top,top,top,top,top,top,covering,artifact
+maraca,0.32,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+"marimba, xylophone",0.04,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+mask,0.08,covering,covering,covering,covering,covering,covering,covering,covering,covering,artifact
+matchstick,0.18,stick,stick,stick,stick,stick,stick,stick,implement,instrumentality,artifact
+maypole,0.12,post,post,post,post,upright,structural_member,support,device,instrumentality,artifact
+"maze, labyrinth",0.18,system,system,system,system,system,system,system,system,instrumentality,artifact
+measuring cup,0.58,measure,measure,measure,measure,measure,measure,measure,container,instrumentality,artifact
+"medicine chest, medicine cabinet",0.04,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,furniture,furnishing,instrumentality,artifact
+"megalith, megalithic structure",0.1,memorial,memorial,memorial,memorial,memorial,memorial,memorial,memorial,structure,artifact
+"microphone, mike",0.12,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,electro-acoustic_transducer,transducer,electrical_device,device,instrumentality,artifact
+"microwave, microwave oven",0.14,kitchen_appliance,kitchen_appliance,kitchen_appliance,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+military uniform,0.06,uniform,uniform,uniform,uniform,uniform,uniform,clothing,consumer_goods,commodity,artifact
+milk can,0.3,can,can,can,can,can,can,can,container,instrumentality,artifact
+minibus,0.2,bus,bus,bus,bus,bus,bus,public_transport,conveyance,instrumentality,artifact
+"miniskirt, mini",0.16,skirt,skirt,skirt,skirt,skirt,garment,clothing,consumer_goods,commodity,artifact
+minivan,0.18,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+missile,0.14,rocket,rocket,rocket,rocket,rocket,rocket,vehicle,conveyance,instrumentality,artifact
+mitten,0.12,glove,glove,glove,glove,glove,handwear,clothing,consumer_goods,commodity,artifact
+mixing bowl,0.1,bowl,bowl,bowl,bowl,bowl,bowl,dish,container,instrumentality,artifact
+"mobile home, manufactured home",0.34,housing,housing,housing,housing,housing,housing,housing,housing,structure,artifact
+Model T,0.16,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+modem,0.18,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+monastery,0.74,religious_residence,religious_residence,religious_residence,religious_residence,religious_residence,residence,house,building,structure,artifact
+monitor,0.64,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+moped,1.22,minibike,minibike,minibike,motorcycle,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+mortar,0.36,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+mortarboard,0.08,cap,cap,cap,cap,cap,headdress,clothing,consumer_goods,commodity,artifact
+mosque,0.44,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,place_of_worship,building,structure,artifact
+mosquito net,0.44,screen,screen,screen,screen,screen,screen,screen,protective_covering,covering,artifact
+"motor scooter, scooter",0.5,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"mountain bike, all-terrain bike, off-roader",1.34,bicycle,bicycle,bicycle,bicycle,bicycle,bicycle,wheeled_vehicle,container,instrumentality,artifact
+mountain tent,0.5,tent,tent,tent,tent,tent,tent,tent,shelter,structure,artifact
+"mouse, computer mouse",1.12,electronic_device,electronic_device,electronic_device,electronic_device,electronic_device,electronic_device,electronic_device,device,instrumentality,artifact
+mousetrap,0.5,trap,trap,trap,trap,trap,trap,trap,device,instrumentality,artifact
+moving van,1.18,van,van,van,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+muzzle,1.24,restraint,restraint,restraint,restraint,restraint,restraint,restraint,device,instrumentality,artifact
+nail,0.7,fastener,fastener,fastener,fastener,fastener,fastener,restraint,device,instrumentality,artifact
+neck brace,0.56,brace,brace,brace,brace,brace,brace,strengthener,device,instrumentality,artifact
+necklace,0.18,jewelry,jewelry,jewelry,jewelry,jewelry,jewelry,jewelry,adornment,decoration,artifact
+nipple,0.28,cap,cap,cap,cap,cap,cap,cap,top,covering,artifact
+"notebook, notebook computer",0.26,portable_computer,portable_computer,portable_computer,personal_computer,digital_computer,computer,machine,device,instrumentality,artifact
+obelisk,0.28,column,column,column,column,column,column,column,column,structure,artifact
+"oboe, hautboy, hautbois",0.68,double-reed_instrument,double-reed_instrument,double-reed_instrument,beating-reed_instrument,woodwind,wind_instrument,musical_instrument,device,instrumentality,artifact
+"ocarina, sweet potato",0.26,wind_instrument,wind_instrument,wind_instrument,wind_instrument,wind_instrument,wind_instrument,musical_instrument,device,instrumentality,artifact
+"odometer, hodometer, mileometer, milometer",0.2,meter,meter,meter,meter,meter,measuring_instrument,instrument,device,instrumentality,artifact
+oil filter,0.56,filter,filter,filter,filter,filter,filter,filter,device,instrumentality,artifact
+"organ, pipe organ",0.1,keyboard_instrument,keyboard_instrument,keyboard_instrument,keyboard_instrument,keyboard_instrument,keyboard_instrument,musical_instrument,device,instrumentality,artifact
+"oscilloscope, scope, cathode-ray oscilloscope, CRO",0.74,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+overskirt,0.56,skirt,skirt,skirt,skirt,skirt,garment,clothing,consumer_goods,commodity,artifact
+oxcart,0.78,cart,cart,cart,cart,cart,wagon,wheeled_vehicle,container,instrumentality,artifact
+oxygen mask,0.18,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,device,instrumentality,artifact
+packet,0.22,package,package,package,package,package,package,package,container,instrumentality,artifact
+"paddle, boat paddle",0.92,oar,oar,oar,oar,oar,oar,oar,implement,instrumentality,artifact
+"paddlewheel, paddle wheel",0.34,wheel,wheel,wheel,wheel,machine,mechanical_device,mechanism,device,instrumentality,artifact
+padlock,0.82,lock,lock,lock,lock,lock,fastener,restraint,device,instrumentality,artifact
+paintbrush,0.3,applicator,applicator,applicator,applicator,applicator,applicator,applicator,device,instrumentality,artifact
+"pajama, pyjama, pj's, jammies",0.18,nightwear,nightwear,nightwear,nightwear,nightwear,nightwear,clothing,consumer_goods,commodity,artifact
+palace,0.22,residence,residence,residence,residence,residence,residence,house,building,structure,artifact
+"panpipe, pandean pipe, syrinx",0.48,pipe,pipe,pipe,pipe,pipe,wind_instrument,musical_instrument,device,instrumentality,artifact
+paper towel,0.68,towel,towel,towel,towel,towel,towel,towel,piece_of_cloth,fabric,artifact
+"parachute, chute",0.26,rescue_equipment,rescue_equipment,rescue_equipment,rescue_equipment,rescue_equipment,rescue_equipment,rescue_equipment,equipment,instrumentality,artifact
+"parallel bars, bars",0.3,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,gymnastic_apparatus,sports_equipment,equipment,instrumentality,artifact
+park bench,0.74,bench,bench,bench,bench,bench,seat,furniture,furnishing,instrumentality,artifact
+parking meter,0.46,timer,timer,timer,timer,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+"passenger car, coach, carriage",0.24,car,car,car,car,car,car,wheeled_vehicle,container,instrumentality,artifact
+"patio, terrace",0.38,area,area,area,area,area,area,area,area,structure,artifact
+"pay-phone, pay-station",0.12,telephone,telephone,telephone,telephone,telephone,telephone,electronic_equipment,equipment,instrumentality,artifact
+"pedestal, plinth, footstall",0.06,support,support,support,support,support,support,support,supporting_structure,structure,artifact
+"pencil box, pencil case",0.06,box,box,box,box,box,box,box,container,instrumentality,artifact
+pencil sharpener,0.9,sharpener,sharpener,sharpener,sharpener,sharpener,sharpener,sharpener,implement,instrumentality,artifact
+"perfume, essence",0.06,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,toiletry,instrumentality,artifact
+Petri dish,0.1,dish,dish,dish,dish,dish,dish,dish,container,instrumentality,artifact
+photocopier,0.12,duplicator,duplicator,duplicator,duplicator,duplicator,duplicator,apparatus,equipment,instrumentality,artifact
+"pick, plectrum, plectron",0.04,device,device,device,device,device,device,device,device,instrumentality,artifact
+pickelhaube,0.12,helmet,helmet,helmet,helmet,armor_plate,plate,shield,protective_covering,covering,artifact
+"picket fence, paling",0.2,fence,fence,fence,fence,fence,fence,barrier,obstruction,structure,artifact
+"pickup, pickup truck",0.3,truck,truck,truck,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+pier,0.92,support,support,support,support,support,support,support,device,instrumentality,artifact
+"piggy bank, penny bank",0.48,savings_bank,savings_bank,savings_bank,savings_bank,savings_bank,savings_bank,savings_bank,container,instrumentality,artifact
+pill bottle,0.6,bottle,bottle,bottle,bottle,bottle,bottle,vessel,container,instrumentality,artifact
+pillow,0.9,cushion,cushion,cushion,cushion,cushion,cushion,cushion,cushion,padding,artifact
+ping-pong ball,0.18,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+pinwheel,0.22,wheel,wheel,wheel,wheel,machine,mechanical_device,mechanism,device,instrumentality,artifact
+"pirate, pirate ship",0.74,ship,ship,ship,ship,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"pitcher, ewer",0.36,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+"plane, carpenter's plane, woodworking plane",0.5,edge_tool,edge_tool,edge_tool,edge_tool,cutter,cutting_implement,tool,implement,instrumentality,artifact
+planetarium,0.96,building,building,building,building,building,building,building,building,structure,artifact
+plastic bag,0.3,bag,bag,bag,bag,bag,bag,bag,container,instrumentality,artifact
+plate rack,1.02,rack,rack,rack,rack,rack,rack,framework,supporting_structure,structure,artifact
+"plow, plough",0.66,tool,tool,tool,tool,tool,tool,tool,implement,instrumentality,artifact
+"plunger, plumber's helper",0.4,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,tool,implement,instrumentality,artifact
+"Polaroid camera, Polaroid Land camera",0.22,camera,camera,camera,camera,camera,camera,photographic_equipment,equipment,instrumentality,artifact
+pole,0.04,rod,rod,rod,rod,rod,rod,rod,implement,instrumentality,artifact
+"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.26,van,van,van,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+poncho,0.32,cloak,cloak,cloak,cloak,overgarment,garment,clothing,consumer_goods,commodity,artifact
+"pool table, billiard table, snooker table",0.76,game_equipment,game_equipment,game_equipment,game_equipment,game_equipment,game_equipment,game_equipment,equipment,instrumentality,artifact
+"pop bottle, soda bottle",0.42,bottle,bottle,bottle,bottle,bottle,bottle,vessel,container,instrumentality,artifact
+"pot, flowerpot",0.3,container,container,container,container,container,container,container,container,instrumentality,artifact
+potter's wheel,0.4,wheel,wheel,wheel,wheel,machine,mechanical_device,mechanism,device,instrumentality,artifact
+power drill,0.56,drill,drill,drill,drill,drill,drill,tool,implement,instrumentality,artifact
+"prayer rug, prayer mat",0.86,rug,rug,rug,rug,rug,rug,rug,floor_cover,covering,artifact
+printer,0.4,peripheral,peripheral,peripheral,peripheral,peripheral,peripheral,electronic_equipment,equipment,instrumentality,artifact
+"prison, prison house",0.56,correctional_institution,correctional_institution,correctional_institution,correctional_institution,correctional_institution,penal_institution,institution,establishment,structure,artifact
+"projectile, missile",0.92,weapon,weapon,weapon,weapon,weapon,weapon,instrument,device,instrumentality,artifact
+projector,0.7,optical_instrument,optical_instrument,optical_instrument,optical_instrument,optical_instrument,optical_instrument,instrument,device,instrumentality,artifact
+"puck, hockey puck",0.46,disk,disk,disk,disk,circle,rotating_mechanism,mechanism,device,instrumentality,artifact
+"punching bag, punch bag, punching ball, punchball",0.46,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+purse,0.7,bag,bag,bag,bag,bag,bag,bag,container,instrumentality,artifact
+"quill, quill pen",0.14,pen,pen,pen,pen,pen,pen,writing_implement,implement,instrumentality,artifact
+"quilt, comforter, comfort, puff",0.58,bedclothes,bedclothes,bedclothes,bedclothes,bedclothes,bedclothes,bedclothes,cloth_covering,covering,artifact
+"racer, race car, racing car",0.56,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"racket, racquet",0.32,sports_implement,sports_implement,sports_implement,sports_implement,sports_implement,sports_implement,sports_implement,implement,instrumentality,artifact
+radiator,0.04,mechanism,mechanism,mechanism,mechanism,mechanism,mechanism,mechanism,device,instrumentality,artifact
+"radio, wireless",0.5,communication_system,communication_system,communication_system,communication_system,communication_system,communication_system,communication_system,system,instrumentality,artifact
+"radio telescope, radio reflector",0.56,astronomical_telescope,astronomical_telescope,astronomical_telescope,telescope,magnifier,scientific_instrument,instrument,device,instrumentality,artifact
+rain barrel,0.92,cistern,cistern,cistern,cistern,cistern,cistern,cistern,pool,excavation,artifact
+"recreational vehicle, RV, R.V.",0.12,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+reel,0.98,winder,winder,winder,winder,winder,mechanical_device,mechanism,device,instrumentality,artifact
+reflex camera,0.54,camera,camera,camera,camera,camera,camera,photographic_equipment,equipment,instrumentality,artifact
+"refrigerator, icebox",0.6,white_goods,white_goods,white_goods,white_goods,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"remote control, remote",0.3,device,device,device,device,device,device,device,device,instrumentality,artifact
+"restaurant, eating house, eating place, eatery",0.18,building,building,building,building,building,building,building,building,structure,artifact
+"revolver, six-gun, six-shooter",0.52,pistol,pistol,pistol,firearm,gun,weapon,instrument,device,instrumentality,artifact
+rifle,0.94,firearm,firearm,firearm,firearm,gun,weapon,instrument,device,instrumentality,artifact
+"rocking chair, rocker",0.3,chair,chair,chair,chair,chair,seat,furniture,furnishing,instrumentality,artifact
+rotisserie,0.54,oven,oven,oven,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"rubber eraser, rubber, pencil eraser",0.46,eraser,eraser,eraser,eraser,eraser,eraser,eraser,implement,instrumentality,artifact
+rugby ball,0.66,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+"rule, ruler",0.58,measuring_stick,measuring_stick,measuring_stick,measuring_stick,measuring_stick,measuring_instrument,instrument,device,instrumentality,artifact
+running shoe,1.4,shoe,shoe,shoe,shoe,shoe,shoe,shoe,footwear,covering,artifact
+safe,0.14,strongbox,strongbox,strongbox,strongbox,strongbox,strongbox,box,container,instrumentality,artifact
+safety pin,0.46,pin,pin,pin,pin,pin,fastener,restraint,device,instrumentality,artifact
+"saltshaker, salt shaker",0.48,shaker,shaker,shaker,shaker,shaker,shaker,shaker,container,instrumentality,artifact
+sandal,0.42,shoe,shoe,shoe,shoe,shoe,shoe,shoe,footwear,covering,artifact
+sarong,0.66,skirt,skirt,skirt,skirt,skirt,garment,clothing,consumer_goods,commodity,artifact
+"sax, saxophone",0.36,single-reed_instrument,single-reed_instrument,single-reed_instrument,beating-reed_instrument,woodwind,wind_instrument,musical_instrument,device,instrumentality,artifact
+scabbard,1,sheath,sheath,sheath,sheath,sheath,sheath,sheath,protective_covering,covering,artifact
+"scale, weighing machine",0.74,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,measuring_instrument,instrument,device,instrumentality,artifact
+school bus,0.76,bus,bus,bus,bus,bus,bus,public_transport,conveyance,instrumentality,artifact
+schooner,0.68,sailing_vessel,sailing_vessel,sailing_vessel,sailing_vessel,vessel,craft,vehicle,conveyance,instrumentality,artifact
+scoreboard,0.7,board,board,board,board,board,board,board,board,sheet,artifact
+"screen, CRT screen",0.28,display,display,display,display,display,display,electronic_device,device,instrumentality,artifact
+screw,0.34,fastener,fastener,fastener,fastener,fastener,fastener,restraint,device,instrumentality,artifact
+screwdriver,0.88,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,tool,implement,instrumentality,artifact
+"seat belt, seatbelt",0.28,safety_belt,safety_belt,safety_belt,safety_belt,belt,accessory,clothing,consumer_goods,commodity,artifact
+sewing machine,0.68,home_appliance,home_appliance,home_appliance,home_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"shield, buckler",0.4,armor,armor,armor,armor,armor,armor,armor,protective_covering,covering,artifact
+"shoe shop, shoe-shop, shoe store",0.12,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+shoji,0.82,screen,screen,screen,screen,screen,screen,screen,screen,covering,artifact
+shopping basket,0.78,basket,basket,basket,basket,basket,basket,basket,container,instrumentality,artifact
+shopping cart,0.06,handcart,handcart,handcart,handcart,handcart,handcart,wheeled_vehicle,container,instrumentality,artifact
+shovel,1.24,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,hand_tool,tool,implement,instrumentality,artifact
+shower cap,0.94,cap,cap,cap,cap,cap,headdress,clothing,consumer_goods,commodity,artifact
+shower curtain,0.94,curtain,curtain,curtain,curtain,curtain,curtain,blind,protective_covering,covering,artifact
+ski,0.48,runner,runner,runner,runner,runner,runner,runner,device,instrumentality,artifact
+ski mask,0.44,face_mask,face_mask,face_mask,face_mask,face_mask,face_mask,mask,protective_covering,covering,artifact
+sleeping bag,0.8,bag,bag,bag,bag,bag,bag,bag,container,instrumentality,artifact
+"slide rule, slipstick",1.64,analog_computer,analog_computer,analog_computer,analog_computer,analog_computer,computer,machine,device,instrumentality,artifact
+sliding door,0.38,door,door,door,door,door,movable_barrier,barrier,obstruction,structure,artifact
+"slot, one-armed bandit",0.48,slot_machine,slot_machine,slot_machine,slot_machine,slot_machine,slot_machine,machine,device,instrumentality,artifact
+snorkel,0.06,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,breathing_device,device,instrumentality,artifact
+snowmobile,0.24,tracked_vehicle,tracked_vehicle,tracked_vehicle,tracked_vehicle,tracked_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"snowplow, snowplough",0.22,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+soap dispenser,0.58,dispenser,dispenser,dispenser,dispenser,dispenser,dispenser,dispenser,container,instrumentality,artifact
+soccer ball,1.26,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+sock,0.9,hosiery,hosiery,hosiery,hosiery,hosiery,footwear,clothing,consumer_goods,commodity,artifact
+"solar dish, solar collector, solar furnace",0.42,reflector,reflector,reflector,reflector,reflector,reflector,reflector,device,instrumentality,artifact
+sombrero,1.2,hat,hat,hat,hat,hat,headdress,clothing,consumer_goods,commodity,artifact
+soup bowl,0.18,bowl,bowl,bowl,bowl,bowl,bowl,dish,container,instrumentality,artifact
+space bar,0.2,key,key,key,key,key,lever,bar,implement,instrumentality,artifact
+space heater,0.26,heater,heater,heater,heater,heater,heater,heater,device,instrumentality,artifact
+space shuttle,0.8,spacecraft,spacecraft,spacecraft,spacecraft,spacecraft,craft,vehicle,conveyance,instrumentality,artifact
+spatula,0.34,turner,turner,turner,turner,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+speedboat,0.56,motorboat,motorboat,motorboat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+"spider web, spider's web",0.68,web,web,web,web,web,web,trap,device,instrumentality,artifact
+spindle,0.44,stick,stick,stick,stick,stick,stick,stick,implement,instrumentality,artifact
+"sports car, sport car",0.64,car,car,car,car,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"spotlight, spot",0.58,lamp,lamp,lamp,lamp,lamp,lamp,source_of_illumination,device,instrumentality,artifact
+stage,0.34,platform,platform,platform,platform,platform,platform,platform,horizontal_surface,surface,artifact
+steam locomotive,0.42,locomotive,locomotive,locomotive,locomotive,locomotive,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+steel arch bridge,0.42,bridge,bridge,bridge,bridge,bridge,bridge,bridge,bridge,structure,artifact
+steel drum,0.82,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,percussion_instrument,musical_instrument,device,instrumentality,artifact
+stethoscope,0.3,medical_instrument,medical_instrument,medical_instrument,medical_instrument,medical_instrument,medical_instrument,instrument,device,instrumentality,artifact
+stole,0.8,scarf,scarf,scarf,scarf,scarf,garment,clothing,consumer_goods,commodity,artifact
+stone wall,0.46,fence,fence,fence,fence,fence,fence,barrier,obstruction,structure,artifact
+"stopwatch, stop watch",0.42,timer,timer,timer,timer,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+stove,0.44,heater,heater,heater,heater,heater,heater,heater,device,instrumentality,artifact
+strainer,0.42,filter,filter,filter,filter,filter,filter,filter,device,instrumentality,artifact
+"streetcar, tram, tramcar, trolley, trolley car",0.68,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+stretcher,0.3,litter,litter,litter,litter,litter,litter,litter,conveyance,instrumentality,artifact
+"studio couch, day bed",0.46,convertible,convertible,convertible,convertible,sofa,seat,furniture,furnishing,instrumentality,artifact
+"stupa, tope",0.34,shrine,shrine,shrine,shrine,shrine,shrine,place_of_worship,building,structure,artifact
+"submarine, pigboat, sub, U-boat",0.66,submersible,submersible,submersible,submersible,warship,military_vehicle,vehicle,conveyance,instrumentality,artifact
+"suit, suit of clothes",0.46,garment,garment,garment,garment,garment,garment,clothing,consumer_goods,commodity,artifact
+sundial,0.96,timepiece,timepiece,timepiece,timepiece,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+sunglass,0.5,converging_lens,converging_lens,converging_lens,converging_lens,converging_lens,lens,optical_device,device,instrumentality,artifact
+"sunglasses, dark glasses, shades",0.08,spectacles,spectacles,spectacles,spectacles,spectacles,optical_instrument,instrument,device,instrumentality,artifact
+"sunscreen, sunblock, sun blocker",0.62,cream,cream,cream,cream,cream,cream,cream,toiletry,instrumentality,artifact
+suspension bridge,0.2,bridge,bridge,bridge,bridge,bridge,bridge,bridge,bridge,structure,artifact
+"swab, swob, mop",0.2,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,cleaning_implement,implement,instrumentality,artifact
+sweatshirt,0.44,pullover,pullover,pullover,pullover,sweater,garment,clothing,consumer_goods,commodity,artifact
+"swimming trunks, bathing trunks",0.36,swimsuit,swimsuit,swimsuit,swimsuit,swimsuit,garment,clothing,consumer_goods,commodity,artifact
+swing,0.88,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanical_device,mechanism,device,instrumentality,artifact
+"switch, electric switch, electrical switch",0.66,control,control,control,control,control,control,mechanism,device,instrumentality,artifact
+syringe,0.32,medical_instrument,medical_instrument,medical_instrument,medical_instrument,medical_instrument,medical_instrument,instrument,device,instrumentality,artifact
+table lamp,0.22,lamp,lamp,lamp,lamp,lamp,lamp,furniture,furnishing,instrumentality,artifact
+"tank, army tank, armored combat vehicle, armoured combat vehicle",0.54,armored_vehicle,armored_vehicle,armored_vehicle,armored_vehicle,armored_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+tape player,0.74,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,electronic_equipment,equipment,instrumentality,artifact
+teapot,1.24,pot,pot,pot,pot,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+"teddy, teddy bear",0.28,plaything,plaything,plaything,plaything,plaything,plaything,plaything,plaything,plaything,artifact
+"television, television system",1.1,telecommunication_system,telecommunication_system,telecommunication_system,telecommunication_system,telecommunication_system,telecommunication_system,communication_system,system,instrumentality,artifact
+tennis ball,0.3,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+"thatch, thatched roof",0.8,roof,roof,roof,roof,roof,roof,roof,protective_covering,covering,artifact
+"theater curtain, theatre curtain",0.54,curtain,curtain,curtain,curtain,curtain,curtain,blind,protective_covering,covering,artifact
+thimble,0.96,cap,cap,cap,cap,cap,cap,cap,protective_covering,covering,artifact
+"thresher, thrasher, threshing machine",0.54,farm_machine,farm_machine,farm_machine,farm_machine,farm_machine,farm_machine,machine,device,instrumentality,artifact
+throne,1.18,chair_of_state,chair_of_state,chair_of_state,chair_of_state,chair,seat,furniture,furnishing,instrumentality,artifact
+tile roof,0.52,roof,roof,roof,roof,roof,roof,roof,protective_covering,covering,artifact
+toaster,0.58,kitchen_appliance,kitchen_appliance,kitchen_appliance,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+"tobacco shop, tobacconist shop, tobacconist",0.54,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+toilet seat,0.3,seat,seat,seat,seat,seat,seat,furniture,furnishing,instrumentality,artifact
+torch,0.76,light,light,light,light,light,light,source_of_illumination,device,instrumentality,artifact
+totem pole,0.72,column,column,column,column,column,column,column,column,structure,artifact
+"tow truck, tow car, wrecker",0.52,truck,truck,truck,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+toyshop,0.84,shop,shop,shop,shop,shop,mercantile_establishment,place_of_business,establishment,structure,artifact
+tractor,0.22,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.18,truck,truck,truck,truck,motor_vehicle,self-propelled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+tray,0.88,receptacle,receptacle,receptacle,receptacle,receptacle,receptacle,receptacle,container,instrumentality,artifact
+trench coat,1.48,raincoat,raincoat,raincoat,coat,overgarment,garment,clothing,consumer_goods,commodity,artifact
+"tricycle, trike, velocipede",0.22,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+trimaran,1.02,sailboat,sailboat,sailboat,sailing_vessel,vessel,craft,vehicle,conveyance,instrumentality,artifact
+tripod,0.8,rack,rack,rack,rack,rack,rack,support,device,instrumentality,artifact
+triumphal arch,0.96,arch,arch,arch,arch,arch,arch,arch,arch,structure,artifact
+"trolleybus, trolley coach, trackless trolley",0.28,bus,bus,bus,bus,bus,bus,public_transport,conveyance,instrumentality,artifact
+trombone,0.12,brass,brass,brass,brass,brass,wind_instrument,musical_instrument,device,instrumentality,artifact
+"tub, vat",0.04,vessel,vessel,vessel,vessel,vessel,vessel,vessel,container,instrumentality,artifact
+turnstile,0.18,gate,gate,gate,gate,gate,movable_barrier,barrier,obstruction,structure,artifact
+typewriter keyboard,0.24,keyboard,keyboard,keyboard,keyboard,keyboard,keyboard,keyboard,device,instrumentality,artifact
+umbrella,0.38,canopy,canopy,canopy,canopy,canopy,canopy,shelter,protective_covering,covering,artifact
+"unicycle, monocycle",0.5,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,wheeled_vehicle,container,instrumentality,artifact
+"upright, upright piano",1.16,piano,piano,piano,piano,piano,keyboard_instrument,musical_instrument,device,instrumentality,artifact
+"vacuum, vacuum cleaner",0.94,home_appliance,home_appliance,home_appliance,home_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+vase,1.44,jar,jar,jar,jar,jar,jar,vessel,container,instrumentality,artifact
+vault,0.26,roof,roof,roof,roof,roof,roof,roof,protective_covering,covering,artifact
+velvet,0.2,fabric,fabric,fabric,fabric,fabric,fabric,fabric,fabric,fabric,artifact
+vending machine,0.2,slot_machine,slot_machine,slot_machine,slot_machine,slot_machine,slot_machine,machine,device,instrumentality,artifact
+vestment,0.24,gown,gown,gown,gown,gown,outerwear,clothing,consumer_goods,commodity,artifact
+viaduct,0.08,bridge,bridge,bridge,bridge,bridge,bridge,bridge,bridge,structure,artifact
+"violin, fiddle",0.16,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,bowed_stringed_instrument,stringed_instrument,musical_instrument,device,instrumentality,artifact
+volleyball,0.24,ball,ball,ball,ball,ball,ball,game_equipment,equipment,instrumentality,artifact
+waffle iron,0.26,kitchen_appliance,kitchen_appliance,kitchen_appliance,kitchen_appliance,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+wall clock,1.1,clock,clock,clock,clock,timepiece,measuring_instrument,instrument,device,instrumentality,artifact
+"wallet, billfold, notecase, pocketbook",0.22,case,case,case,case,case,case,case,container,instrumentality,artifact
+"wardrobe, closet, press",0.28,furniture,furniture,furniture,furniture,furniture,furniture,furniture,furnishing,instrumentality,artifact
+"warplane, military plane",0.42,heavier-than-air_craft,heavier-than-air_craft,heavier-than-air_craft,heavier-than-air_craft,aircraft,craft,vehicle,conveyance,instrumentality,artifact
+"washbasin, handbasin, washbowl, lavabo, wash-hand basin",0.44,basin,basin,basin,basin,basin,basin,vessel,container,instrumentality,artifact
+"washer, automatic washer, washing machine",0.24,white_goods,white_goods,white_goods,white_goods,home_appliance,appliance,durables,consumer_goods,commodity,artifact
+water bottle,0.46,bottle,bottle,bottle,bottle,bottle,bottle,vessel,container,instrumentality,artifact
+water jug,0.5,jug,jug,jug,jug,jug,bottle,vessel,container,instrumentality,artifact
+water tower,0.46,reservoir,reservoir,reservoir,reservoir,reservoir,tank,vessel,container,instrumentality,artifact
+whiskey jug,0.6,jug,jug,jug,jug,jug,bottle,vessel,container,instrumentality,artifact
+whistle,0.28,acoustic_device,acoustic_device,acoustic_device,acoustic_device,acoustic_device,acoustic_device,acoustic_device,device,instrumentality,artifact
+wig,0.06,hairpiece,hairpiece,hairpiece,hairpiece,hairpiece,attire,clothing,consumer_goods,commodity,artifact
+window screen,0.26,screen,screen,screen,screen,screen,screen,screen,protective_covering,covering,artifact
+window shade,0.46,window_blind,window_blind,window_blind,window_blind,window_blind,window_blind,blind,protective_covering,covering,artifact
+Windsor tie,0.62,necktie,necktie,necktie,necktie,neckwear,garment,clothing,consumer_goods,commodity,artifact
+wine bottle,0.12,bottle,bottle,bottle,bottle,bottle,bottle,vessel,container,instrumentality,artifact
+wing,0.28,airfoil,airfoil,airfoil,airfoil,airfoil,airfoil,airfoil,device,instrumentality,artifact
+wok,0.12,pan,pan,pan,pan,cooking_utensil,kitchen_utensil,utensil,implement,instrumentality,artifact
+wooden spoon,0,spoon,spoon,spoon,spoon,spoon,spoon,spoon,container,instrumentality,artifact
+"wool, woolen, woollen",0.46,fabric,fabric,fabric,fabric,fabric,fabric,fabric,fabric,fabric,artifact
+"worm fence, snake fence, snake-rail fence, Virginia fence",0.78,rail_fence,rail_fence,rail_fence,rail_fence,rail_fence,fence,barrier,obstruction,structure,artifact
+wreck,0.5,ship,ship,ship,ship,vessel,craft,vehicle,conveyance,instrumentality,artifact
+yawl,0.68,small_boat,small_boat,small_boat,boat,vessel,craft,vehicle,conveyance,instrumentality,artifact
+yurt,0.4,dwelling,dwelling,dwelling,dwelling,dwelling,dwelling,dwelling,housing,structure,artifact
+"web site, website, internet site, site",0.48,computer,computer,computer,computer,computer,computer,machine,device,instrumentality,artifact
+comic book,0.34,magazine,magazine,magazine,magazine,magazine,press,print_media,medium,instrumentality,artifact
+"crossword puzzle, crossword",0.22,puzzle,puzzle,puzzle,puzzle,puzzle,game,game_equipment,equipment,instrumentality,artifact
+street sign,1.06,sign,sign,sign,sign,sign,sign,sign,sign,sign,sign
+"traffic light, traffic signal, stoplight",0.88,light,light,light,light,light,light,light,light,light,visual_signal
+"book jacket, dust cover, dust jacket, dust wrapper",0.56,jacket,jacket,jacket,jacket,jacket,jacket,jacket,wrapping,covering,artifact
+menu,0.12,fare,fare,fare,fare,fare,fare,fare,fare,fare,food
+plate,0.08,entree,entree,entree,entree,entree,entree,entree,course,nutriment,food
+guacamole,0.88,dip,dip,dip,dip,dip,condiment,flavorer,ingredient,foodstuff,food
+consomme,0.1,soup,soup,soup,soup,soup,soup,soup,dish,nutriment,food
+"hot pot, hotpot",0.08,stew,stew,stew,stew,stew,stew,stew,dish,nutriment,food
+trifle,0.34,pudding,pudding,pudding,pudding,pudding,pudding,dessert,course,nutriment,food
+"ice cream, icecream",0,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,dessert,course,nutriment,food
+"ice lolly, lolly, lollipop, popsicle",0.24,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,frozen_dessert,dessert,course,nutriment,food
+French loaf,0.5,loaf_of_bread,loaf_of_bread,loaf_of_bread,loaf_of_bread,loaf_of_bread,loaf_of_bread,loaf_of_bread,bread,baked_goods,food
+"bagel, beigel",0.7,bun,bun,bun,bun,bun,bun,bun,bread,baked_goods,food
+pretzel,0.5,cracker,cracker,cracker,cracker,cracker,cracker,cracker,bread,baked_goods,food
+cheeseburger,0.16,hamburger,hamburger,hamburger,hamburger,hamburger,sandwich,snack_food,dish,nutriment,food
+"hotdog, hot dog, red hot",0.3,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,snack_food,dish,nutriment,food
+mashed potato,0.3,potato,potato,potato,potato,potato,potato,root_vegetable,vegetable,produce,food
+head cabbage,0.18,cabbage,cabbage,cabbage,cabbage,cabbage,cabbage,cruciferous_vegetable,vegetable,produce,food
+broccoli,0.2,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,vegetable,produce,food
+cauliflower,0.16,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,cruciferous_vegetable,vegetable,produce,food
+"zucchini, courgette",0.5,summer_squash,summer_squash,summer_squash,summer_squash,summer_squash,summer_squash,squash,vegetable,produce,food
+spaghetti squash,0.34,summer_squash,summer_squash,summer_squash,summer_squash,summer_squash,summer_squash,squash,vegetable,produce,food
+acorn squash,0.36,winter_squash,winter_squash,winter_squash,winter_squash,winter_squash,winter_squash,squash,vegetable,produce,food
+butternut squash,0.66,winter_squash,winter_squash,winter_squash,winter_squash,winter_squash,winter_squash,squash,vegetable,produce,food
+"cucumber, cuke",0.82,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,produce,food
+"artichoke, globe artichoke",0.5,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,produce,food
+bell pepper,0.32,sweet_pepper,sweet_pepper,sweet_pepper,sweet_pepper,sweet_pepper,pepper,solanaceous_vegetable,vegetable,produce,food
+cardoon,0.56,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,produce,food
+mushroom,0.22,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,vegetable,produce,food
+Granny Smith,0.36,eating_apple,eating_apple,eating_apple,apple,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+strawberry,0.78,berry,berry,berry,berry,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+orange,0.46,citrus,citrus,citrus,citrus,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+lemon,0.74,citrus,citrus,citrus,citrus,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+fig,0.4,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+"pineapple, ananas",0.66,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+banana,0.48,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+"jackfruit, jak, jack",1.08,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+custard apple,0.82,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+pomegranate,1.16,edible_fruit,edible_fruit,edible_fruit,edible_fruit,edible_fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+hay,0.36,fodder,fodder,fodder,fodder,fodder,fodder,fodder,fodder,feed,food
+carbonara,0.18,spaghetti_sauce,spaghetti_sauce,spaghetti_sauce,spaghetti_sauce,sauce,condiment,flavorer,ingredient,foodstuff,food
+"chocolate sauce, chocolate syrup",0.96,sauce,sauce,sauce,sauce,sauce,condiment,flavorer,ingredient,foodstuff,food
+dough,0.46,concoction,concoction,concoction,concoction,concoction,concoction,concoction,concoction,foodstuff,food
+"meat loaf, meatloaf",1.04,dish,dish,dish,dish,dish,dish,dish,dish,nutriment,food
+"pizza, pizza pie",0.6,dish,dish,dish,dish,dish,dish,dish,dish,nutriment,food
+potpie,0.38,dish,dish,dish,dish,dish,dish,dish,dish,nutriment,food
+burrito,0.3,dish,dish,dish,dish,dish,dish,dish,dish,nutriment,food
+red wine,0.16,wine,wine,wine,wine,wine,wine,wine,alcohol,beverage,food
+espresso,0.76,coffee,coffee,coffee,coffee,coffee,coffee,coffee,coffee,beverage,food
+cup,0.9,punch,punch,punch,punch,punch,punch,mixed_drink,alcohol,beverage,food
+eggnog,0.52,punch,punch,punch,punch,punch,punch,mixed_drink,alcohol,beverage,food
+alp,0.58,mountain,mountain,mountain,mountain,mountain,mountain,mountain,mountain,mountain,natural_elevation
+bubble,0.06,globule,globule,globule,globule,globule,globule,globule,ball,sphere,round_shape
+"cliff, drop, drop-off",0.12,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation,geological_formation
+coral reef,0.32,reef,reef,reef,reef,reef,reef,reef,reef,ridge,natural_elevation
+geyser,0.52,spring,spring,spring,spring,spring,spring,spring,spring,spring,spring
+"lakeside, lakeshore",0.56,shore,shore,shore,shore,shore,shore,shore,shore,shore,shore
+"promontory, headland, head, foreland",0.58,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation,natural_elevation
+"sandbar, sand bar",0.36,bar,bar,bar,bar,bar,bar,bar,barrier,mechanism,natural_object
+"seashore, coast, seacoast, sea-coast",0.14,shore,shore,shore,shore,shore,shore,shore,shore,shore,shore
+"valley, vale",0.26,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression,natural_depression
+volcano,0.54,mountain,mountain,mountain,mountain,mountain,mountain,mountain,mountain,mountain,natural_elevation
+"ballplayer, baseball player",1.16,athlete,athlete,athlete,athlete,athlete,athlete,athlete,athlete,athlete,contestant
+"groom, bridegroom",0.42,participant,participant,participant,participant,participant,participant,participant,participant,associate,peer
+scuba diver,0.5,diver,diver,diver,diver,diver,diver,diver,diver,diver,explorer
+rapeseed,1.44,oilseed,oilseed,oilseed,oilseed,seed,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+daisy,1.62,flower,flower,flower,flower,angiosperm,spermatophyte,vascular_plant,plant,organism,living_thing
+"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",0.24,lady's_slipper,lady's_slipper,orchid,flower,angiosperm,spermatophyte,vascular_plant,plant,organism,living_thing
+corn,0.66,kernel,kernel,kernel,grain,seed,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+acorn,0.08,fruit,fruit,fruit,fruit,fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+"hip, rose hip, rosehip",0.06,fruit,fruit,fruit,fruit,fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+"buckeye, horse chestnut, conker",0.12,seed,seed,seed,seed,seed,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+coral fungus,1.06,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+agaric,0.98,basidiomycete,basidiomycete,basidiomycete,basidiomycete,basidiomycete,basidiomycete,basidiomycete,fungus,organism,living_thing
+gyromitra,0.44,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+"stinkhorn, carrion fungus",0.84,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+earthstar,1.1,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",1.26,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+bolete,0.38,fungus,fungus,fungus,fungus,fungus,fungus,fungus,fungus,organism,living_thing
+"ear, spike, capitulum",0.54,fruit,fruit,fruit,fruit,fruit,fruit,reproductive_structure,plant_organ,plant_part,natural_object
+"toilet tissue, toilet paper, bathroom tissue",0.54,tissue,tissue,tissue,tissue,tissue,tissue,tissue,tissue,paper,material
